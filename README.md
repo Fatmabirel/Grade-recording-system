@@ -1,2 +1,1 @@
-# Not-Kayit-Sistemi
-# Not-Kayit-Sistemi
+C# Form Ekranı - Not Kayıt Sistemi
